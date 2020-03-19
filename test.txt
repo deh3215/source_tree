@@ -2,9 +2,6 @@ First Commit
 
 dsdsdddsdsd Bug
 
-<<<<<<< HEAD
 sadsadsda branch-2
-=======
 
 branch-1:sdd
->>>>>>> develop
