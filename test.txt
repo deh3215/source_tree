@@ -23,3 +23,6 @@ new branch 3
 hotfix...........
 
 fix qrcode bug
+
+
+BUG*3
